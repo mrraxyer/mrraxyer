@@ -72,8 +72,7 @@ I am **Rafael Abonce**, an engineering student and tech enthusiast who enjoys bu
 
 ## 📊 GitHub Stats
 
-![mrraxyer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mrraxyer&count_private=true&show_icons=true&include_all_commits=true&theme=radical)
-
+![GitHub stats](https://github-readme-stats-git-master-mrraxyers-projects.vercel.app//api?username=mrraxyer&show_icons=true)
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=mrraxyer.mrraxyer)
 
 ---

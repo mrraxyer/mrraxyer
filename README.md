@@ -54,6 +54,14 @@ I am **Rafael Abonce**, an engineering student and tech enthusiast who enjoys bu
 
 ---
 
+### 🧩 Operating Systems
+
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
+![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+---
+
 ### 🔃 Version Control
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -62,7 +70,7 @@ I am **Rafael Abonce**, an engineering student and tech enthusiast who enjoys bu
 
 ---
 
-### 📑 Documentation
+### 📑 Documentation Platforms
 
 ![Bookstack](https://img.shields.io/badge/Bookstack-%230288D1.svg?style=for-the-badge&logo=bookstack&logoColor=white)
 ![GitBook](https://img.shields.io/badge/GitBook-%23000000.svg?style=for-the-badge&logo=gitbook&logoColor=white)

@@ -6,9 +6,8 @@ I am **Rafael Abonce**, an engineering student and tech enthusiast who enjoys bu
 
 ### 📫 Connect with me:
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com)](https://www.linkedin.com/in/rafael-abonce-garc%C3%ADa-97327a286/)  
-[![GitHub Badge](https://img.shields.io/badge/-mrraxyer-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/mrraxyer)](https://github.com/mrraxyer)  
-[![Gmail Badge](https://img.shields.io/badge/-raxyercontact@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yourmail@example.com)](mailto:raxyercontact@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-abonce-garc%C3%ADa-97327a286/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raxyercontact@gmail.com)
 
 ---
 
